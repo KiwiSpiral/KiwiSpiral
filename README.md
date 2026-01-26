@@ -1,4 +1,4 @@
 ## KiwiSpiral
 
-I like programming :D
-- Currently making a 3D Game Engine in C
+I mostly code in C
+- Currently making a 3D Game Engine
